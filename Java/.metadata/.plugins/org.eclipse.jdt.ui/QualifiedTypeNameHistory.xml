@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Stub.SegreteriaStudentiStub"/>
+<fullyQualifiedTypeName name="Stub.EsameStub"/>
+<fullyQualifiedTypeName name="Entity.SegreteriaStudentiEntity"/>
+<fullyQualifiedTypeName name="Control.VisualizzaNumeroEsamiECorsiSostenutiInUnaDataControl"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="Entity.StudenteEntity"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="Entity.EsameEntity"/>
+<fullyQualifiedTypeName name="Entity.CorsoEntity"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+</qualifiedTypeNameHistroy>

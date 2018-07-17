@@ -1,0 +1,82 @@
+/*
+Studente: FERRARA GIUSEPPE
+Matricola: N46/002766
+Docente: Fasolino
+
+
+ Corso di Ingegneria del Software Corso di Laurea in INGEGNERIA INFORMATICA Prova di 
+esame del 09_07_2018  	Allievo Cognome e Nome: Matricola:
+	
+
+Descrizione del Problema
+
+Si vuole realizzare un sistema software per gestire le operazioni di una segreteria studenti 
+universitari. Il sistema deve permettere all'addetto di segreteria di memorizzare i dati degli studenti 
+iscritti ai corsi di laurea (nome, cognome, matricola) e i piani di studio scelti da ciascuno studente. 
+Un piano di studio contiene l'insieme dei corsi scelti dallo studente, dove ogni corso è 
+caratterizzato da nome e codice numerico univoco.  L'addetto di segreteria deve inoltre registrare 
+gli esami sostenuti da ciascuno studente, memorizzando per ciascun esame la data, il voto 
+(compreso tra 18 e 30) e l'eventuale lode. 
+
+Il sistema deve permettere agli studenti di visualizzare il proprio storico degli esami che consiste 
+nell'elenco ordinato per data degli esami superati, con la relativa data ed il voto conseguito. 
+
+Il sistema deve inoltre consentire all'addetto di segreteria di interrogare il sistema per conoscere il 
+numero totale degli esami registrati in una determinata data ed il numero di corsi distinti per i quali 
+si sono registrati esami in quella data. 
+A tal fine, l'addetto fornisce la data al sistema e, qualora in quella data sia stato registrato almeno 
+un esame il sistema restituirà le informazioni richieste, oppure un apposito messaggio di errore.
+
+
+QUESITI
+
+1.	Si disegni il diagramma dei casi d'uso e quello delle classi concettuali (System Domain 
+Model) per tale sistema, utilizzando la Tecnica dell'analisi testuale messa a disposizione da 
+Visual Paradigm. 
+
+2.	Per il caso d'uso Interrogazione Esami registrati in una data, si disegni il sequence 
+diagram di analisi che mostra le interazioni fra attori e sistema. 
+
+3.	Si progetti una soluzione basata sul modello architetturale BCE per realizzare il caso 
+d'uso Interrogazione Esami registrati in una data. 
+
+4.	Si progetti un sequence diagram di dettaglio per realizzare il caso d'uso Interrogazione 
+Esami registrati in una data. 
+
+
+Gli studenti che avranno risposto correttamente a tutti e 4 quesiti saranno ammessi a sostenere la 
+prova orale. Al momento della prova orale, lo studente dovrà consegnare in formato elettronico il 
+codice Java sviluppato per realizzare il caso d'uso richiesto e fornire gli stub software necessari a 
+dimostrare il corretto funzionamento del caso d'uso e dei suoi scenari.
+
+
+Suggerimenti
+
+·	Durante la Modellazione, per aggiungere il tipo date in Visual Paradigm eseguire i seguenti 
+passi:
+o	Menu Window --> Menu Project Options --> Selezionare il Tab Data Type dal 
+menu a sinistra --> Selezionare UML (language in use) --> Cliccare su Add --> 
+digitare "date" nel prompt --> Cliccare su Ok --> Cliccare su Ok
+o	A questo punto sarà possibile utilizzare attributi di tipo date nelle classi 
+o	
+·	Durante lo Sviluppo del codice, per utilizzare il tipo data in Java utilizzare la Class Date 
+(import Java.Util.Date)  
+
+
+
+*/
+
+
+#include <iostream>
+#include <stdlib.h>
+
+using namespace std;
+
+
+int main (){
+
+
+
+  system("PAUSE");
+  return 0;
+}
